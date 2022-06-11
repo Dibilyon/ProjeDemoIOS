@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>100707540309-ek8i5b1ol1nijf4sfokebruag421la80.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.100707540309-ek8i5b1ol1nijf4sfokebruag421la80</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>100707540309-1jgo1d3a57gf1mpcmn0jdsmrkumo42fk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTRATPvUp7U2fGxrzy2ZvKKT0vTZT6lB0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>100707540309</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.norma.normaiosbeta</string>
+	<key>PROJECT_ID</key>
+	<string>norma-4f930</string>
+	<key>STORAGE_BUCKET</key>
+	<string>norma-4f930.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:100707540309:ios:d69c76bd05c1870705e3dc</string>
+	<key>DATABASE_URL</key>
+	<string>https://norma-4f930.firebaseio.com</string>
+</dict>
+</plist>
