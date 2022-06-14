@@ -21,9 +21,9 @@ public class Driver
         if (driver == null) {
             SimulatorStart.runSimulator();
             DesiredCapabilities dc = new DesiredCapabilities();
-            dc.setCapability("udid", "8658B9DC-828E-4A49-B7AD-4171E3246821");
+            dc.setCapability("udid", "30350333-035C-4FB4-848F-ACBF5E558545");
             dc.setCapability("platformName", "iOS");
-            dc.setCapability("deviceName", "iPhone SE");
+            dc.setCapability("deviceName", "iPhone 13 Pro Max");
             dc.setCapability("platformVersion", "15.4");
             dc.setCapability("app", "/Users/ugurbaykoc/IdeaProjects/NormaIOS/src/test/resources/AppFile/Norma.app");
             dc.setCapability("unicodeKeyboard", false);
